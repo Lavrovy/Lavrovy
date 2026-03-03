@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.icons8.com/fluency/48/000000/university.png" width="25" height="25">
-  🎓 Студент <b>БГТУ</b>
+   Студент <b>БГТУ</b>
   <br>
   🚀 Постоянно учусь новому и развиваюсь
 </p>
