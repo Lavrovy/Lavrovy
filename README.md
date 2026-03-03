@@ -74,19 +74,15 @@
 ## 📊 Статистика GitHub:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lavrovy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavrovy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lavrovy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&v=123" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavrovy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=123" height="150"/>
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 🏆 Трофеи GitHub:
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lavrovy&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lavrovy&theme=radical&no-frame=true&no-bg=true&row=1&column=7&v=123" width="100%" />
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 📈 График активности:
 
