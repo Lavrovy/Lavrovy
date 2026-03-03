@@ -71,18 +71,12 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-## 📊 Статистика GitHub:
+## 📊 Статистика GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lavrovy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" height="150"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lavrovy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150"/>
-</div>
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lavrovy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lavrovy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-## 🏆 Трофеи GitHub:
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lavrovy&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lavrovy&theme=radical&hide_border=true)
 
 ## 📈 График активности:
 
