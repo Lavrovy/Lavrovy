@@ -76,11 +76,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lavrovy&theme=radical&hide_border=true" />
 </div>
 
-## 🏆 Трофеи GitHub
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lavrovy&theme=radical&no-frame=true&no-bg=true&column=4" width="100%" />
-</div>
-
 ## 📈 График активности:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lavrovy&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%"/>
