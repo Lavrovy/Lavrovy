@@ -73,10 +73,14 @@
 
 ## 📊 Статистика GitHub
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lavrovy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lavrovy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+<div align="center">
+  <img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lavrovy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
+  <img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lavrovy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lavrovy&theme=radical&hide_border=true)
+<div align="center">
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lavrovy&theme=radical&hide_border=true" />
+</div>
 
 ## 📈 График активности:
 
